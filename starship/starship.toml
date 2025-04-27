@@ -5,6 +5,9 @@ $git_status\
 $fill\
 $lua\
 $dart\
+$html\
+$css\
+$javascript\
 $python\
 $jobs\
 $cmd_duration\
